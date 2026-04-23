@@ -1,11 +1,11 @@
 ## Hello, world 🫡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=000080&size=22&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Yggdra+Cloud+Founder+%7C+IT+Services;Node.js%2C+Java+%26+SQL+Enthusiast;One+Piece+Fan+%26+Terer%C3%A9+Lover;Building+the+future+in+Goi%C3%A1s" />
+  <img src="https://readme-typing-svg.demolab.com?color=007FFF&size=22&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Yggdra+Cloud+Founder+%7C+IT+Services;Node.js%2C+Java+%26+SQL+Enthusiast;One+Piece+Fan+%26+Terer%C3%A9+Lover;Building+the+future+in+Goi%C3%A1s" />
 </p>
 
 ---
@@ -19,6 +19,7 @@
 ---
 
 📱 Contato
+
 <p align="center">
   <a href="https://www.instagram.com/_jhean_carllos_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />

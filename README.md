@@ -31,8 +31,6 @@
 
  ---
 
- Aqui está uma versão personalizada para o seu perfil, mantendo o estilo direto e profissional que você pediu, mas destacando suas experiências reais e seus objetivos:
-
 ## 👋 Sobre mim
 
 🇧🇷 Brasil, Goiás (São Luís de Montes Belos)

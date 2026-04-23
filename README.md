@@ -18,7 +18,7 @@
 
 ---
 
-📱 Contato
+  ## 📱 Contatos
 
 <p align="center">
   <a href="https://www.instagram.com/_jhean_carllos_/" target="_blank">
@@ -27,4 +27,50 @@
   <a href="https://discord.gg/KaRzA2Qnf" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
+</p>
+
+ ---
+
+ Aqui está uma versão personalizada para o seu perfil, mantendo o estilo direto e profissional que você pediu, mas destacando suas experiências reais e seus objetivos:
+
+## 👋 Sobre mim
+
+🇧🇷 Brasil, Goiás (São Luís de Montes Belos)
+
+🎓 Estudante de Engenharia de Software
+
+🚀 Aprendendo sozinho, na prática | Desenvolvedor Full-Stack em formação
+
+🧠 Focado em evolução e em transformar café em código de qualidade
+
+---
+
+## 🛠️ No que venho trabalhando:
+
+Yggdra Cloud: Empreendendo na área de TI, com foco em suporte técnico, otimização de hardware e performance.
+
+Stack Principal: Node.js, Java e SQL. No front-end, domino HTML e Bootstrap para criar interfaces responsivas.
+
+Projetos Acadêmicos: Desenvolvimento de sistemas web e gestão de banco de dados (LabTech).
+
+---
+
+## 🎯 Meus Objetivos:
+
+Consolidar minha carreira como Desenvolvedor de Software.
+
+No futuro, buscar um mestrado e expandir meus horizontes profissionais.
+
+Sempre aprimorar minhas habilidades em lógica de programação e arquitetura de sistemas.
+
+---
+<p align="center">
+"O sucesso é a soma de pequenos esforços repetidos dia após dia."
+
+---
+ 
+ <p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=footer"/>
+
 </p>

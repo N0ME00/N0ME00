@@ -20,7 +20,7 @@
 
 📱 Contato
 <p align="center">
-  <a href="https://https://www.instagram.com/?hl=en/" target="_blank">
+  <a href="https://https://www.instagram.com/_jhean_carllos_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://https://discord.gg/KaRzA2Qnf" target="_blank">

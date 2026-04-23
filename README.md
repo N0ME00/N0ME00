@@ -20,10 +20,10 @@
 
 📱 Contato
 <p align="center">
-  <a href="https://www.instagram.com/y.ovictor/" target="_blank">
+  <a href="https://https://www.instagram.com/?hl=en/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://discord.gg/vittinofly" target="_blank">
+  <a href="https://https://discord.gg/KaRzA2Qnf" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>

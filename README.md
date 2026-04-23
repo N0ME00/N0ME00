@@ -20,12 +20,10 @@
 
 📱 Contato
 <p align="center">
-  <a href="https://https://www.instagram.com/_jhean_carllos_/" target="_blank">
+  <a href="https://www.instagram.com/_jhean_carllos_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://https://discord.gg/KaRzA2Qnf" target="_blank">
+  <a href="https://discord.gg/KaRzA2Qnf" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
-
-
